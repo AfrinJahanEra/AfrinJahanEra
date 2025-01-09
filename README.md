@@ -1,3 +1,8 @@
+<!-- Top Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontAlign=50&fontAlignY=40&&descAlign=50&descAlignY=60" alt="Top Banner">
+</p>
+
 <h1 align="center">Hi there, I'm Afrin Jahan Era! 👋</h1>
 
 <p align="center">
@@ -39,6 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=compact&theme=radical" alt="Top Languages">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&count_private=true&show_icons=true&theme=radical&custom_title=Total%20Contributions%20from%20Beginning" alt="Total Contributions"> -->
 </p>
 
 ---
@@ -83,4 +89,8 @@
 ### 🎩 Fun Fact
 
 > "Success is the sum of small efforts, repeated day in and day out." — Robert Collier
-> 
+
+<!-- Bottom Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Bottom Banner">
+</p>
