@@ -41,7 +41,7 @@
 ### 🎨 GitHub Profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afrin_Era97&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=compact&theme=radical" alt="Top Languages">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&count_private=true&show_icons=true&theme=radical&custom_title=Total%20Contributions%20from%20Beginning" alt="Total Contributions"> -->
