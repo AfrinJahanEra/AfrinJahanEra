@@ -65,6 +65,7 @@
 ### 📊 Activity Graph
 
 <p align="center">
+   <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinJahanEra&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinJahanEra&theme=github&bg_color=000000&color=ffffff&line=00E676&point=FFFFFF" alt="GitHub Activity Graph">
 </p>
 
