@@ -56,7 +56,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AfrinJahanEra&repo=OOP-With-JAVA&theme=radical" alt="Pinned Repo">
   </a>
   <a href="https://github.com/AfrinJahanEra/MySQLWithJava.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AfrinJahanEra&repo=C-Language&theme=radical" alt="Pinned Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AfrinJahanEra&repo=MySQLWithJava&theme=radical" alt="Pinned Repo">
   </a>
 </p>
 
