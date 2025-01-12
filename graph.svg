@@ -1,0 +1,22 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Draw the axes -->
+  <line x1="200" y1="0" x2="200" y2="400" stroke="black" stroke-width="2"/> <!-- Y-axis -->
+  <line x1="0" y1="200" x2="400" y2="200" stroke="black" stroke-width="2"/> <!-- X-axis -->
+
+  <!-- Labels for the axes -->
+  <text x="210" y="15" font-size="12" fill="black">+Y</text>
+  <text x="210" y="395" font-size="12" fill="black">-Y</text>
+  <text x="385" y="190" font-size="12" fill="black">+X</text>
+  <text x="5" y="190" font-size="12" fill="black">-X</text>
+
+  <!-- Points or lines for graph representation -->
+  <circle cx="250" cy="150" r="5" fill="red" />
+  <circle cx="150" cy="250" r="5" fill="blue" />
+  <circle cx="300" cy="300" r="5" fill="green" />
+  <circle cx="100" cy="100" r="5" fill="purple" />
+
+  <!-- Optional connecting lines -->
+  <line x1="200" y1="200" x2="250" y2="150" stroke="red" stroke-width="1"/>
+  <line x1="250" y1="150" x2="300" y2="300" stroke="green" stroke-width="1"/>
+  <line x1="200" y1="200" x2="150" y2="250" stroke="blue" stroke-width="1"/>
+</svg>
