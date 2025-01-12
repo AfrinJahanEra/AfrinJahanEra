@@ -23,7 +23,7 @@
 ### 📈 My X-Y Graph Visualization
 
 <p align="center">
-  <img src="./assets/graph.svg" alt="X-Y Axis Graph" width="400" height="400">
+  <img src="graph.svg" alt="X-Y Axis Graph" width="400" height="400">
 </p>
 
 ---
