@@ -65,14 +65,19 @@
 
 <table align="center">
   <tr>
+    <!-- Two stats, one under another -->
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats">
+      <br>
+      <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical" alt="GitHub Streak">
+    </td>
+    <!-- Contribution graph -->
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&cache-bust=1" alt="Radial Contribution Graph">
     </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" alt="Productive Time Heatmap">
-    </td>
   </tr>
 </table>
+
 
 
 ---
