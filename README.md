@@ -11,6 +11,15 @@
 
 ---
 
+### 📚 About Me
+
+- 🌐 I'm currently pursuing a **BSc in Software Engineering**.
+- 🔧 I enjoy working with a variety of programming languages and technologies.
+- 🎨 I’m passionate about building visually appealing and functional software.
+- 📊 Constantly improving my problem-solving and development skills.
+
+---
+
 ### 📊 Contributions Overview
 
 <div align="center">
@@ -32,14 +41,6 @@
 
 ---
 
-### 📚 About Me
-
-- 🌐 I'm currently pursuing a **BSc in Software Engineering**.
-- 🔧 I enjoy working with a variety of programming languages and technologies.
-- 🎨 I’m passionate about building visually appealing and functional software.
-- 📊 Constantly improving my problem-solving and development skills.
-
----
 
 ### 🥷 Tech Stack
 
@@ -62,13 +63,16 @@
 
 ### 📊 Activity Graph
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical" alt="Radial Contribution Graph">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" alt="Productive Time Heatmap">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical" alt="Radial Contribution Graph">
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" alt="Productive Time Heatmap">
+    </td>
+  </tr>
+</table>
 
 
 ---
