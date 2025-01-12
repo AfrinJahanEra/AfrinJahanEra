@@ -24,7 +24,7 @@
       <!-- Activity Graph -->
       <td>
         <h3 align="center">📈 Activity Graph</h3>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinJahanEra&bg_color=0d1117&color=00ffcc&line=7DF9FF&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinJahanEra&bg_color=0d1117&color=00ffcc&line=0d1117&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
       </td>
     </tr>
   </table>
