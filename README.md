@@ -11,19 +11,33 @@
 
 ---
 
+### 📊 Contributions Overview
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- Pie Chart -->
+      <td>
+        <h3 align="center">🥧 Language Contributions</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical" alt="Language Contribution Pie Chart">
+      </td>
+      <!-- Activity Graph -->
+      <td>
+        <h3 align="center">📈 Activity Graph</h3>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinJahanEra&bg_color=0d1117&color=00ffcc&line=ff6f91&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 📚 About Me
 
 - 🌐 I'm currently pursuing a **BSc in Software Engineering**.
 - 🔧 I enjoy working with a variety of programming languages and technologies.
 - 🎨 I’m passionate about building visually appealing and functional software.
 - 📊 Constantly improving my problem-solving and development skills.
-
----
-### 🥧 Language Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical" alt="Language Contribution Pie Chart">
-</p>
 
 ---
 
@@ -45,29 +59,6 @@
 
 ---
 
-### 🎨 GitHub Profile
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-### 🔄 Dynamic Repositories
-
-<p align="center">
-  <a href="https://github.com/AfrinJahanEra/OOP-With-JAVA.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AfrinJahanEra&repo=OOP-With-JAVA&theme=radical" alt="Pinned Repo">
-  </a>
-  <a href="https://github.com/AfrinJahanEra/MySQLWithJava.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AfrinJahanEra&repo=MySQLWithJava&theme=radical" alt="Pinned Repo">
-  </a>
-</p>
-
----
-
 
 ### 📊 Activity Graph
 
@@ -78,12 +69,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" alt="Productive Time Heatmap">
 </p>
-
-### 📊 My GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AfrinJahanEra&bg_color=0d1117&color=00ffcc&line=ff6f91&point=ffffff&area=true&hide_border=true)
-
-
 
 
 ---
