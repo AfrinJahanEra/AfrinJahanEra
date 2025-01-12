@@ -28,7 +28,7 @@
       <!-- Pie Chart -->
       <td>
         <h3 align="center">🥧 Language Contributions</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical" alt="Language Contribution Pie Chart">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical?v=1" alt="Language Contribution Pie Chart">
       </td>
       <!-- Activity Graph -->
       <td>
