@@ -20,7 +20,7 @@
 
 ---
 
-### 📊 Contributions Overview
+### 📊 Top Languages & Activity Graph
 
 <div align="center">
   <table>
@@ -61,7 +61,7 @@
 ---
 
 
-### 📊 Activity Graph
+### 📊 Contributions
 
 <table align="center">
   <tr>
