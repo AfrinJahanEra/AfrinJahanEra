@@ -24,11 +24,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical" alt="Language Contribution Pie Chart">
 </p>
-### 📈 My X-Y Graph Visualization
-
-<p align="center">
-  <img src="graph.svg" alt="X-Y Axis Graph" width="400" height="400">
-</p>
 
 ---
 
@@ -73,7 +68,17 @@
 
 ---
 
+
 ### 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical" alt="Radial Contribution Graph">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" alt="Productive Time Heatmap">
+</p>
+
 
 <p align="center">
   <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinJahanEra&theme=github&bg_color=000000&color=ffffff&line=00E676&point=FFFFFF" alt="GitHub Activity Graph">
