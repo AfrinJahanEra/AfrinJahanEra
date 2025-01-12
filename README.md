@@ -79,10 +79,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" alt="Productive Time Heatmap">
 </p>
 
-
 ### 📊 My GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AfrinJahanEra&bg_color=0d1117&color=00ffcc&line=ff6f91&point=ffffff&area=true&hide_border=true)
+
 
 
 ---
