@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontAlign=50&fontAlignY=40&&descAlign=50&descAlignY=60" alt="Top Banner">
 </p>
 
+<!-- Intro Section -->
 <h1 align="center">Hi there, I'm Afrin Jahan Era! 👋</h1>
 
 <p align="center">
@@ -11,6 +12,7 @@
 
 ---
 
+<!-- About Me -->
 ### 📚 About Me
 
 - 🌐 I'm currently pursuing a **BSc in Software Engineering**.
@@ -20,6 +22,7 @@
 
 ---
 
+<!-- Middle Section: Tech Stack -->
 ### 🥷 Tech Stack
 
 <div align="center">
@@ -38,17 +41,18 @@
 
 ---
 
+<!-- GitHub Stats -->
 ### 🎨 GitHub Profile
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=compact&theme=radical" alt="Top Languages">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&count_private=true&show_icons=true&theme=radical&custom_title=Total%20Contributions%20from%20Beginning" alt="Total Contributions"> -->
 </p>
 
 ---
 
+<!-- Pinned Repositories -->
 ### 🔄 Dynamic Repositories
 
 <p align="center">
@@ -62,15 +66,16 @@
 
 ---
 
+<!-- Activity Graph -->
 ### 📊 Activity Graph
 
 <p align="center">
-   <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinJahanEra&border_radius=0&custom_title=activity%20graph&hide_title=true&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinJahanEra&theme=github&bg_color=000000&color=ffffff&line=00E676&point=FFFFFF" alt="GitHub Activity Graph">
+  <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinJahanEra&border_radius=0&custom_title=activity%20graph&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
 </p>
 
 ---
 
+<!-- Connect Section -->
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -87,6 +92,7 @@
 
 ---
 
+<!-- Bottom Section -->
 ### 🎩 Fun Fact
 
 > "Success is the sum of small efforts, repeated day in and day out." — Robert Collier
@@ -95,3 +101,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Bottom Banner">
 </p>
+
