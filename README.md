@@ -12,6 +12,36 @@
 
 ---
 
+<!-- X-Y Axis Graph -->
+### 📈 My X-Y Graph Visualization
+
+<p align="center">
+  <svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <!-- Draw the axes -->
+    <line x1="200" y1="0" x2="200" y2="400" stroke="black" stroke-width="2"/> <!-- Y-axis -->
+    <line x1="0" y1="200" x2="400" y2="200" stroke="black" stroke-width="2"/> <!-- X-axis -->
+
+    <!-- Labels for the axes -->
+    <text x="210" y="15" font-size="12" fill="black">+Y</text>
+    <text x="210" y="395" font-size="12" fill="black">-Y</text>
+    <text x="385" y="190" font-size="12" fill="black">+X</text>
+    <text x="5" y="190" font-size="12" fill="black">-X</text>
+
+    <!-- Points or lines for graph representation -->
+    <circle cx="250" cy="150" r="5" fill="red" />
+    <circle cx="150" cy="250" r="5" fill="blue" />
+    <circle cx="300" cy="300" r="5" fill="green" />
+    <circle cx="100" cy="100" r="5" fill="purple" />
+
+    <!-- Optional connecting lines -->
+    <line x1="200" y1="200" x2="250" y2="150" stroke="red" stroke-width="1"/>
+    <line x1="250" y1="150" x2="300" y2="300" stroke="green" stroke-width="1"/>
+    <line x1="200" y1="200" x2="150" y2="250" stroke="blue" stroke-width="1"/>
+  </svg>
+</p>
+
+---
+
 <!-- About Me -->
 ### 📚 About Me
 
@@ -22,83 +52,5 @@
 
 ---
 
-<!-- Middle Section: Tech Stack -->
-### 🥷 Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-</div>
-
----
-
-<!-- GitHub Stats -->
-### 🎨 GitHub Profile
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-<!-- Pinned Repositories -->
-### 🔄 Dynamic Repositories
-
-<p align="center">
-  <a href="https://github.com/AfrinJahanEra/OOP-With-JAVA.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AfrinJahanEra&repo=OOP-With-JAVA&theme=radical" alt="Pinned Repo">
-  </a>
-  <a href="https://github.com/AfrinJahanEra/MySQLWithJava.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AfrinJahanEra&repo=MySQLWithJava&theme=radical" alt="Pinned Repo">
-  </a>
-</p>
-
----
-
-<!-- Activity Graph -->
-### 📊 Activity Graph
-
-<p align="center">
-  <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinJahanEra&border_radius=0&custom_title=activity%20graph&bg_color=2E3440&color=81A1C1&line=88C0D0&point=5E81AC&area_color=D8DEE9&title_color=81A1C1&area=true"/>
-</p>
-
----
-
-<!-- Connect Section -->
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:afrinjahanera03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/AfrinJahanEra">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
-<!-- Bottom Section -->
-### 🎩 Fun Fact
-
-> "Success is the sum of small efforts, repeated day in and day out." — Robert Collier
-
-<!-- Bottom Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Bottom Banner">
-</p>
+<!-- Rest of the Profile -->
 
