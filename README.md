@@ -66,7 +66,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical" alt="Radial Contribution Graph">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&cache-bust=1" alt="Radial Contribution Graph">
     </td>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" alt="Productive Time Heatmap">
