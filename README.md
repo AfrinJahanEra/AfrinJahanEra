@@ -67,9 +67,9 @@
   <tr>
     <!-- Two stats, one under another -->
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats">
       <br>
-      <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical" alt="GitHub Streak">
+      <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical&cache_seconds=1800" alt="GitHub Streak">
     </td>
     <!-- Contribution graph -->
     <td align="center">
