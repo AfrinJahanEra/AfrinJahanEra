@@ -19,7 +19,11 @@
 - 📊 Constantly improving my problem-solving and development skills.
 
 ---
+### 🥧 Language Contributions
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical" alt="Language Contribution Pie Chart">
+</p>
 ### 📈 My X-Y Graph Visualization
 
 <p align="center">
