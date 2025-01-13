@@ -6,8 +6,15 @@
 <h1 align="center">Hi there, I'm Afrin Jahan Era! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F77F00&center=true&vCenter=true&width=500&lines=BSc+Student+in+Software+Engineering;Full-Stack+Developer;Passionate+about+Coding+and+Learning;Always+Exploring+New+Technologies" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0DB1FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;Lover+of+Tech+%26+Innovation;Building+Dreams+One+Line+at+a+Time" alt="Typing SVG">
 </p>
+
+
+
+
+
+
+
 
 ---
 
