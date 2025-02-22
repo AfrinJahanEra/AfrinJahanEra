@@ -63,6 +63,7 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 </div>
 
 
