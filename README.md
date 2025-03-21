@@ -1,4 +1,4 @@
-<div align="center" style="border: 2px solid #1e90ff; border-radius: 10px; padding: 20px; background-color: #0a192f; color: #ffffff; font-family: 'Courier New', monospace;">
+<div align="center" style="border: 2px solid #1e90ff; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #1e3c72, #2a5298); color: #ffffff; font-family: 'Courier New', monospace;">
   <pre style="font-size: 1em; color: #87ceeb; margin: 0;">
   ██╗    ██╗███████╗██╗      ██████╗ ███╗   ███╗███████╗
   ██║    ██║██╔════╝██║     ██╔═══██╗████╗ ████║██╔════╝
@@ -9,13 +9,11 @@
   </pre>
 </div>
 
-  <!--<div align="center" style="border: 2px solid #2ecc71; border-radius: 10px; padding: 20px; background-color: #1a1a1a; color: #ffffff; font-family: 'Courier New', monospace;">
-  <h1 style="color: #2ecc71; font-size: 2.5em; margin: 0;">🚀 Welcome 🚀</h1>
-</div>
-<p align="center">
+
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0000FF,100:00FF00&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Code%20•%20Debug%20•%20Deploy&descSize=20&descAlign=50&descAlignY=70&animation=fadeIn&theme=matrix" alt="Coding Banner">
-  -->
-</p>
+</p>-->
+
 <h1 align="center"> Hi there, I'm Afrin Jahan Era! 👋</h1>
 
 <p align="center">
@@ -30,7 +28,7 @@
 - 🏆 **Competitive Programmer**, constantly improving DSA skills.  
 - 🚀 **Building optimized & scalable software solutions.**  
 - 💡 Love participating in **online coding contests & hackathons.**  
-- 📫 Reach me at **afrinjahanera03@gmail.com**  
+- 📧 Reach me at **afrinjahanera03@gmail.com**  
 
 ---
 
@@ -42,28 +40,8 @@
 
 ---
 
-### 📊 Top Languages & Activity Graph
+### 💊 Platforms I Solve Problems On
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- Pie Chart -->
-      <td>
-        <h3 align="center">🥧 Language Contributions</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical&bg_color=000000&text_color=00ff00" alt="Language Contribution Pie Chart">
-      </td>
-      <!-- Activity Graph -->
-      <td>
-        <h3 align="center">📈 Activity Graph</h3>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinJahanEra&bg_color=0d1117&color=00ffcc&line=00FF00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-#### � **Platforms I Solve Problems On:**
 <p align="center">
   <a href="https://leetcode.com/AfrinJahanEra">
     <img src="https://img.shields.io/badge/LeetCode-%2300A97F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
@@ -78,54 +56,50 @@
 
 ---
 
-
 ### 🏆 Competitive Programming Achievements & 📊 Problem-Solving Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- Competitive Programming Achievements -->
-      <td width="50%" valign="top" style="padding: 8px;">
-        <h3 align="center">🏆 Achievements</h3>
-        <ul style="font-size: 8px; padding-left: 8px;">
-          <li>🥇 Solved 1000+ problems across platforms like LeetCode, Codeforces, and CodeChef.</li>
-          <li>🔥 Specialist in Codeforces & <strong>4-star in CodeChef</strong> (ongoing improvement 🚀).</li>
-          <li>🎯 Regular participant in ICPC, Google Kickstart & LeetCode contests.</li>
-        </ul>
-      </td>
-      <!-- Problem-Solving Stats -->
-      <td width="50%" valign="top" style="padding: 8px;">
-        <h3 align="center">📊 Stats</h3>
-        <table align="center">
-              <img src="https://leetcard.jacoblin.cool/Han_Ae-Ra?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="280" height="150">
-              <img src="https://codeforces-readme-stats.vercel.app/api/card?username=era97&theme=radical" alt="Codeforces Stats" width="180" height="140">
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏆 Achievements</h3>
+      <ul>
+        <li>🏅 Solved 1000+ problems across platforms.</li>
+        <li>🔥 Specialist in Codeforces & <strong>4-star in CodeChef</strong>.</li>
+        <li>🎯 Regular participant in ICPC, Google Kickstart & LeetCode contests.</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 Stats</h3>
+      <table>
+        <tr>
+          <td>
+            <img src="https://leetcard.jacoblin.cool/Han_Ae-Ra?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="250">
+          </td>
+          <td>
+            <img src="https://codeforces-readme-stats.vercel.app/api/card?username=era97&theme=radical" alt="Codeforces Stats" width="200">
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
-### 📊 Contributions
-
 <table align="center">
   <tr>
-    <!-- Two stats, one under another -->
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats">
       <br>
       <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical&cache_seconds=1800" alt="GitHub Streak">
     </td>
-    <!-- Contribution graph -->
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&cache-bust=1" alt="Radial Contribution Graph">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&cache-bust=1" alt="Contribution Graph">
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -153,6 +127,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Bottom Banner">
 </p>
-
----
 
