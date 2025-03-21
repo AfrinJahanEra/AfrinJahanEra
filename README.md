@@ -85,12 +85,12 @@
   <table>
     <tr>
       <!-- Competitive Programming Achievements -->
-      <td width="40%" valign="top" style="padding: 8px;">
+      <td width="50%" valign="top" style="padding: 8px;">
         <h3 align="center">🏆 Achievements</h3>
         <ul style="font-size: 8px; padding-left: 8px;">
-          <li>🥇 Solved 1000+ problems</strong> across platforms like LeetCode, Codeforces, and CodeChef.</li>
-          <li>🔥 Specialist in Codeforces</strong> & <strong>4-star in CodeChef</strong> (ongoing improvement 🚀).</li>
-          <li>🎯 Regular participant in ICPC, Google Kickstart & LeetCode contests.</strong></li>
+          <li>🥇 Solved 1000+ problems across platforms like LeetCode, Codeforces, and CodeChef.</li>
+          <li>🔥 Specialist in Codeforces & <strong>4-star in CodeChef</strong> (ongoing improvement 🚀).</li>
+          <li>🎯 Regular participant in ICPC, Google Kickstart & LeetCode contests.</li>
         </ul>
       </td>
       <!-- Problem-Solving Stats -->
@@ -98,40 +98,34 @@
         <h3 align="center">📊 Stats</h3>
         <table align="center">
               <img src="https://leetcard.jacoblin.cool/Han_Ae-Ra?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="280" height="150">
-              <img src="https://codeforces-readme-stats.vercel.app/api/card?username=era97&theme=radical" alt="Codeforces Stats" width="140" height="110">
+              <img src="https://codeforces-readme-stats.vercel.app/api/card?username=era97&theme=radical" alt="Codeforces Stats" width="180" height="140">
         </table>
       </td>
     </tr>
   </table>
 </div>
 
-
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- GitHub Stats -->
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats">
-      </td>
-      <!-- GitHub Streak -->
-      <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical&cache_seconds=1800" alt="GitHub Streak">
-      </td>
-    </tr>
-  </table>
-</div>
+### 📊 Contributions
 
----
+<table align="center">
+  <tr>
+    <!-- Two stats, one under another -->
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats">
+      <br>
+      <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical&cache_seconds=1800" alt="GitHub Streak">
+    </td>
+    <!-- Contribution graph -->
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&cache-bust=1" alt="Radial Contribution Graph">
+    </td>
+  </tr>
+</table>
 
-### 🖥️ Dynamic Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/AfrinJahanEra/AfrinJahanEra/raw/output/github-contribution-grid-snake.svg" alt="3D Contribution Snake">
-</p>
 
 ---
 
