@@ -1,23 +1,44 @@
-<!-- Top Banner -->
+<div align="center" style="border: 2px solid #1e90ff; border-radius: 10px; padding: 20px; background-color: #0a192f; color: #ffffff; font-family: 'Courier New', monospace;">
+  <pre style="font-size: 1em; color: #87ceeb; margin: 0;">
+  ██╗    ██╗███████╗██╗      ██████╗ ███╗   ███╗███████╗
+  ██║    ██║██╔════╝██║     ██╔═══██╗████╗ ████║██╔════╝
+██║ █╗ ██║█████╗  ██║     ██║   ██║██╔████╔██║█████╗
+██║███╗██║██╔══╝  ██║     ██║   ██║██║╚██╔╝██║██╔══╝
+  ╚███╔███╔╝███████╗███████╗╚██████╔╝██║ ╚═╝ ██║███████╗
+  ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
+  </pre>
+</div>
+
+  <!--<div align="center" style="border: 2px solid #2ecc71; border-radius: 10px; padding: 20px; background-color: #1a1a1a; color: #ffffff; font-family: 'Courier New', monospace;">
+  <h1 style="color: #2ecc71; font-size: 2.5em; margin: 0;">🚀 Welcome 🚀</h1>
+</div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontAlign=50&fontAlignY=40&&descAlign=50&descAlignY=60" alt="Top Banner">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0000FF,100:00FF00&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Code%20•%20Debug%20•%20Deploy&descSize=20&descAlign=50&descAlignY=70&animation=fadeIn&theme=matrix" alt="Coding Banner">
+  -->
 </p>
-
-<h1 align="center">Hi there, I'm Afrin Jahan Era! 👋</h1>
+<h1 align="center"> Hi there, I'm Afrin Jahan Era! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0DB1FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;Lover+of+Tech+%26+Innovation;Building+Dreams+One+Line+at+a+Time" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0DB1FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Competitive+Programmer;Algorithm+Enthusiast;Building+Dreams+One+Line+at+a+Time" alt="Typing SVG">
 </p>
-
 
 ---
 
 ### 📚 About Me
 
-- 🌐 I'm currently pursuing a **BSc in Software Engineering**.
-- 🔧 I enjoy working with a variety of programming languages and technologies.
-- 🎨 I’m passionate about building visually appealing and functional software.
-- 📊 Constantly improving my problem-solving and development skills.
+- 🌐 **BSc in Software Engineering** student with a passion for problem-solving.  
+- 🏆 **Competitive Programmer**, constantly improving DSA skills.  
+- 🚀 **Building optimized & scalable software solutions.**  
+- 💡 Love participating in **online coding contests & hackathons.**  
+- 📫 Reach me at **afrinjahanera03@gmail.com**  
+
+---
+
+### 🥷 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,nodejs,react,mongodb,mysql,git,github,linux,vscode" alt="Tech Stack">
+</p>
 
 ---
 
@@ -42,54 +63,75 @@
 
 ---
 
+#### � **Platforms I Solve Problems On:**
+<p align="center">
+  <a href="https://leetcode.com/AfrinJahanEra">
+    <img src="https://img.shields.io/badge/LeetCode-%2300A97F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://codeforces.com/profile/AfrinJahanEra">
+    <img src="https://img.shields.io/badge/Codeforces-%230F89E5.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
+  <a href="https://www.codechef.com/users/AfrinJahanEra">
+    <img src="https://img.shields.io/badge/CodeChef-%23009639.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+  </a>
+</p>
+
+---
 
 
-### 🥷 Tech Stack
+### 🏆 Competitive Programming Achievements & 📊 Problem-Solving Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+  <table>
+    <tr>
+      <!-- Competitive Programming Achievements -->
+      <td width="40%" valign="top" style="padding: 8px;">
+        <h3 align="center">🏆 Achievements</h3>
+        <ul style="font-size: 8px; padding-left: 8px;">
+          <li>🥇 Solved 1000+ problems</strong> across platforms like LeetCode, Codeforces, and CodeChef.</li>
+          <li>🔥 Specialist in Codeforces</strong> & <strong>4-star in CodeChef</strong> (ongoing improvement 🚀).</li>
+          <li>🎯 Regular participant in ICPC, Google Kickstart & LeetCode contests.</strong></li>
+        </ul>
+      </td>
+      <!-- Problem-Solving Stats -->
+      <td width="50%" valign="top" style="padding: 8px;">
+        <h3 align="center">📊 Stats</h3>
+        <table align="center">
+              <img src="https://leetcard.jacoblin.cool/Han_Ae-Ra?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="280" height="150">
+              <img src="https://codeforces-readme-stats.vercel.app/api/card?username=era97&theme=radical" alt="Codeforces Stats" width="140" height="110">
+        </table>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
 ---
 
+### 📊 GitHub Stats
 
-### 📊 Contributions
+<div align="center">
+  <table>
+    <tr>
+      <!-- GitHub Stats -->
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats">
+      </td>
+      <!-- GitHub Streak -->
+      <td align="center">
+        <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical&cache_seconds=1800" alt="GitHub Streak">
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table align="center">
-  <tr>
-    <!-- Two stats, one under another -->
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats">
-      <br>
-      <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical&cache_seconds=1800" alt="GitHub Streak">
-    </td>
-    <!-- Contribution graph -->
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&cache-bust=1" alt="Radial Contribution Graph">
-    </td>
-  </tr>
-</table>
+---
 
+### 🖥️ Dynamic Contribution Snake
 
-
+<p align="center">
+  <img src="https://github.com/AfrinJahanEra/AfrinJahanEra/raw/output/github-contribution-grid-snake.svg" alt="3D Contribution Snake">
+</p>
 
 ---
 
@@ -117,3 +159,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Bottom Banner">
 </p>
+
+---
+
