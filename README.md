@@ -17,7 +17,7 @@
 <h1 align="center"> Hi there, I'm Afrin Jahan Era! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0DB1FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Competitive+Programmer;Algorithm+Enthusiast;Building+Dreams+One+Line+at+a+Time" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0DB1FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Competitive+Programmer;Full_Stack+Developer;Building+Dreams+One+Line+at+a+Time" alt="Typing SVG">
 </p>
 
 ---
@@ -26,41 +26,35 @@
 
 - 🌐 **BSc in Software Engineering** student with a passion for problem-solving.  
 - 🏆 **Competitive Programmer**, constantly improving DSA skills.  
-- 🚀 **Building optimized & scalable software solutions.**  
-- 💡 Love participating in **online coding contests & hackathons.**  
-- 📧 Reach me at **afrinjahanera03@gmail.com**  
-
+- 🚀 **Full stack Developer**c, Working On Mern_Stack right now.  
+- 💡 **Learning Machine Learning & Artificial Intelligence**
 ---
 
 ### 🥷 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,nodejs,react,mongodb,mysql,git,github,linux,vscode" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,nodejs,react,mongodb,mysql,github" alt="Tech Stack">
 </p>
 
 ---
 
-### 💊 Platforms I Solve Problems On
+### 💊 Competitive Programming Achievements
 
 <p align="center">
-  <a href="https://leetcode.com/AfrinJahanEra">
+  <a href="https://leetcode.com/Han_Ae-Ra">
     <img src="https://img.shields.io/badge/LeetCode-%2300A97F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
-  <a href="https://codeforces.com/profile/AfrinJahanEra">
+  <a href="https://codeforces.com/profile/Han_Ae-Ra">
     <img src="https://img.shields.io/badge/Codeforces-%230F89E5.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
-  <a href="https://www.codechef.com/users/AfrinJahanEra">
+  <a href="https://www.codechef.com/users/Han_Ae-Ra">
     <img src="https://img.shields.io/badge/CodeChef-%23009639.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
 </p>
 
----
-
-### 🏆 Competitive Programming Achievements & 📊 Problem-Solving Stats
-
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%" style="padding: 1px; vertical-align: top;">
       <h3>🏆 Achievements</h3>
       <ul>
         <li>🏅 Solved 1000+ problems across platforms.</li>
@@ -68,7 +62,7 @@
         <li>🎯 Regular participant in ICPC, Google Kickstart & LeetCode contests.</li>
       </ul>
     </td>
-    <td align="center" width="50%">
+    <td width="50%" style="padding: 1px; vertical-align: top;">
       <h3>📊 Stats</h3>
       <table>
         <tr>
@@ -76,13 +70,14 @@
             <img src="https://leetcard.jacoblin.cool/Han_Ae-Ra?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="250">
           </td>
           <td>
-            <img src="https://codeforces-readme-stats.vercel.app/api/card?username=era97&theme=radical" alt="Codeforces Stats" width="200">
+            <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Han_Ae-Ra&theme=radical" alt="Codeforces Stats" width="200">
           </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -121,10 +116,10 @@
 
 ### 🎩 Fun Fact
 
-> "Success is the sum of small efforts, repeated day in and day out." — Robert Collier
+> "It always seems impossible until it's done." — Nelson Mandela
 
-<!-- Bottom Banner -->
+<!-- Bottom Banner
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Bottom Banner">
-</p>
+</p>-->
 
