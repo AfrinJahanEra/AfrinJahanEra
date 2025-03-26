@@ -1,22 +1,4 @@
-<!--<div align="center" style="border: 2px solid #1e90ff; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #1e3c72, #2a5298); color: #ffffff; font-family: 'Courier New', monospace;">
-  <pre style="font-size: 1em; color: #87ceeb; margin: 0;">
-  ██╗    ██╗███████╗██╗      ██████╗  ██████╗  ███╗   ███╗███████╗
-  ██║    ██║██╔════╝██║     ██╔════╝ ██╔═══██╗ ████╗ ████║██╔════╝
-██║ █╗ ██║█████╗  ██║     ██║      ██║   ██║ ██╔████╔██║█████╗
-██║███╗██║██╔══╝  ██║     ██║      ██║   ██║ ██║╚██╔╝██║██╔══╝
-  ╚███╔███╔╝███████╗███████╗╚██████╗ ╚██████╔╝ ██║ ╚═╝ ██║███████╗
-   ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝  ╚═════╝  ╚═╝     ╚═╝╚══════╝
-  </pre>
-</div>
--->
-
 ![image](https://github.com/user-attachments/assets/2706bec9-9a12-481f-a0f8-df267897761a)
-
-
-
-<!--<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0000FF,100:00FF00&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Code%20•%20Debug%20•%20Deploy&descSize=20&descAlign=50&descAlignY=70&animation=fadeIn&theme=matrix" alt="Coding Banner">
-</p>-->
 
 <h1 align="center"> Hi there, I'm Afrin Jahan Era! 👋</h1>
 
@@ -28,10 +10,22 @@
 
 ### 📚 About Me
 
-- 🌐 **BSc in Software Engineering** student with a passion for problem-solving.  
-- 🏆 **Competitive Programmer**, constantly improving DSA skills.  
-- 🚀 **Full stack Developer**c, Working On Mern_Stack right now.  
-- 💡 **Learning Machine Learning & Artificial Intelligence**
+<table>
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <ul>
+        <li>🌐 <strong>BSc in Software Engineering</strong> student with a passion for problem-solving.</li>
+        <li>🏆 <strong>Competitive Programmer</strong>, constantly improving DSA skills.</li>
+        <li>🚀 <strong>Full Stack Developer</strong>, working on MERN Stack right now.</li>
+        <li>💡 <strong>Learning Machine Learning & Artificial Intelligence</strong></li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical" alt="Language Usage">
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 🥷 Tech Stack
@@ -82,7 +76,6 @@
   </tr>
 </table>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -121,9 +114,4 @@
 ### 🎩 Fun Fact
 
 > "It always seems impossible until it's done." — Nelson Mandela
-
-<!-- Bottom Banner
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Bottom Banner">
-</p>-->
 
