@@ -78,16 +78,8 @@
 
 ---
 
-<!--### 📊 GitHub Stats-->
+### 📊 GitHub Stats-
 
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;">
-  <img src="https://streak-stats.demolab.com/?user=AfrinJahanEra&theme=radical&cache_seconds=1800" alt="GitHub Streak" style="max-width: 100%;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&cache-bust=1" alt="Contribution Graph" style="max-width: 100%;">
-</div>
-<!--
 <table align="center">
   <tr>
     <td align="center">
@@ -99,7 +91,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&cache-bust=1" alt="Contribution Graph">
     </td>
   </tr>
-</table>-->
+</table>
 
 ---
 
