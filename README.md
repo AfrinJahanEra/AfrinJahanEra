@@ -1,4 +1,4 @@
-<div align="center" style="border: 2px solid #1e90ff; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #1e3c72, #2a5298); color: #ffffff; font-family: 'Courier New', monospace;">
+<!--<div align="center" style="border: 2px solid #1e90ff; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #1e3c72, #2a5298); color: #ffffff; font-family: 'Courier New', monospace;">
   <pre style="font-size: 1em; color: #87ceeb; margin: 0;">
   ██╗    ██╗███████╗██╗      ██████╗  ██████╗  ███╗   ███╗███████╗
   ██║    ██║██╔════╝██║     ██╔════╝ ██╔═══██╗ ████╗ ████║██╔════╝
@@ -8,6 +8,9 @@
    ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝  ╚═════╝  ╚═╝     ╚═╝╚══════╝
   </pre>
 </div>
+-->
+
+![image](https://github.com/user-attachments/assets/2706bec9-9a12-481f-a0f8-df267897761a)
 
 
 
