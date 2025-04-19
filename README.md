@@ -94,7 +94,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafataft&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafataft&theme=neon-darkout&hide_border=true&background=0D1117&stroke=9D00FF&fire=FF00F5&sideLabels=00F0FF&currStreakNum=E100FF&ring=FF00F5&currStreakLabel=FF00F5&sideNums=00F0FF&border_radius=10&dates=8A2BE2" />
 </p>
 
 ### 📊 GitHub Stats
@@ -102,7 +102,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&theme=radical" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&hide_border=true&theme=neon-darkout&bg_color=0D1117&title_color=E100FF&text_color=00F0FF&icon_color=FF00F5&border_radius=10" width="90%">
     </td>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&cache-bust=1" alt="Contribution Graph">
