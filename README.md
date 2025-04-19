@@ -1,9 +1,9 @@
-![Alt text](https://github.com/username/repo/blob/main/Screenshot%202025-03-27%20014136-Photoroom.jpg?raw=true)
+![Description of the image](Screenshot%202025-03-27%20014136-Photoroom.png)
 
 <h1 align="center"> Hi there, I'm Afrin Jahan Era! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9C03CD&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Competitive+Programmer;Full_Stack+Developer;Building+Dreams+One+Line+at+a+Time" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF00F5&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Competitive+Programmer;Full_Stack+Developer;Building+Dreams+One+Line+at+a+Time" alt="Typing SVG">
 </p>
 
 ---
