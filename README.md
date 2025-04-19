@@ -1,9 +1,9 @@
 ![Description of the image](Screenshot%202025-03-27%20014136-Photoroom.png)
 
-<h1 align="center"> Hi there, I'm Afrin Jahan Era! 👋</h1>
+<!--<h1 align="center"> Hi there, I'm Afrin Jahan Era! 👋</h1>-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF00F5&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Competitive+Programmer;Full_Stack+Developer;Building+Dreams+One+Line+at+a+Time" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E100FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Afrin+Jahan+Era!;Software+Engineering+Student;Competitive+Programmer;Full+Stack+Developer;Building+Dreams+One+Line+at+a+Time" alt="Typing SVG">
 </p>
 
 ---
@@ -19,10 +19,24 @@
         <li>🏆 <strong>Competitive Programmer</strong>, constantly improving DSA skills</li>
         <li>🚀 <strong>Full Stack Developer</strong>, working on MERN Stack right now</li>
         <li>💡 <strong>Learning Machine Learning & Artificial Intelligence</strong></li>
+
+  #### 🌐 Connect with Me
+
+  <p align="center">
+    <a href="mailto:afrinjahanera03@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="[https://github.com/AfrinJahanEra](https://www.facebook.com/share/1DUwv5YYq1/)">
+      <img src="https://img.shields.io/badge/FaceBook-%2312100E.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+  </p>
       </ul>
     </td>
     <td width="30%" style="vertical-align: middle; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=neon-dark&hide_border=true&bg_color=000000&title_color=ff00ff&text_color=00ffff" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=neon-dark&hide_border=true&bg_color=000000&title_color=E100FF&text_color=00F0FF" width="100%">
     </td>
   </tr>
 </table>
@@ -94,7 +108,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafataft&theme=neon-darkout&hide_border=true&background=0D1117&stroke=9D00FF&fire=FF00F5&sideLabels=00F0FF&currStreakNum=E100FF&ring=FF00F5&currStreakLabel=FF00F5&sideNums=00F0FF&border_radius=10&dates=8A2BE2" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafataft&theme=neon-darkout&hide_border=true&background=0D1117&stroke=9D00FF&fire=FF00F5&sideLabels=00F0FF&currStreakNum=E100FF&ring=E100FF&currStreakLabel=FF00F5&sideNums=00F0FF&border_radius=10&dates=8A2BE2" />
 </p>
 
 ### 📊 GitHub Stats
@@ -112,21 +126,7 @@
 
 ---
 
-### 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:afrinjahanera03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/AfrinJahanEra">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
 
 ### 🎩 Fun Fact
 
