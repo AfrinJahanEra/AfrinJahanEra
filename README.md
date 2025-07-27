@@ -1,5 +1,6 @@
-![Description of the image](Screenshot%202025-03-27%20014136-Photoroom.png)
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E100FF&gradientColor=4B0082&height=200&section=header&text=Afrin%20Jahan%20Era&fontSize=40" alt="Purple Waving Header"/>
+</div>
 <!--<h1 align="center"> Hi there, I'm Afrin Jahan Era! 👋</h1>-->
 
 <p align="center">
