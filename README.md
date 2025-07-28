@@ -19,7 +19,6 @@
         <li>🧠 <strong>Practicing DSA daily</strong> - Competitive programming on LeetCode/Codeforces</li>
         <li>🌱 <strong>Learning Full Stack Development</strong> - Building projects with MERN stack</li>
         <li>🤖 <strong>Exploring AI/ML fundamentals</strong> - Studying Python for data science</li>
-        <li>🔧 <strong>Experimenting with DevOps tools</strong> - Docker, CI/CD pipelines</li>
 
   #### 🌐 Connect with Me
 
@@ -27,9 +26,9 @@
     <a href="mailto:afrinjahanera03@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://linkedin.com/in/your-linkedin">
+<!--     <a href="https://linkedin.com/in/your-linkedin">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+    </a> -->
     <a href="https://www.facebook.com/share/1DUwv5YYq1/">
       <img src="https://img.shields.io/badge/FaceBook-%2312100E.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
