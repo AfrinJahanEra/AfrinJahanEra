@@ -1,7 +1,5 @@
-
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:4B0082&height=240&section=header&text=Afrin%20Jahan%20Era&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=000000&strokeWidth=2" alt="Header"/>
+<div align="center" style="position:relative;">
+  <img width="100%" src="Screenshot 2025-07-29 001906.png" alt="Banner">
 </div>
 
 <p align="center">
