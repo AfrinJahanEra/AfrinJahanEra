@@ -1,25 +1,26 @@
+
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E100FF&gradientColor=4B0082&height=200&section=header&text=Afrin%20Jahan%20Era&fontSize=40" alt="Purple Waving Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:4B0082&height=240&section=header&text=Afrin%20Jahan%20Era&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=000000&strokeWidth=2" alt="Header"/>
 </div>
-<!--<h1 align="center"> Hi there, I'm Afrin Jahan Era! 👋</h1>-->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=E100FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Afrin+Jahan+Era!;Software+Engineering+Student;Competitive+Programmer;Full+Stack+Developer;Building+Dreams+One+Line+at+a+Time" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E100FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Competitive+Programmer;Full+Stack+Developer;AI%2FML+Enthusiast;Building+The+Future+With+Code" alt="Typing SVG">
 </p>
 
 ---
 
-### 📚 About Me
+### 📚 Currently Learning & Exploring
 
-
-<table>
+<table align="center">
   <tr>
     <td width="70%" style="vertical-align: middle;">
       <ul>
-        <li>🌐 <strong>BSc in Software Engineering</strong> student with a passion for problem-solving</li>
-        <li>🏆 <strong>Competitive Programmer</strong>, constantly improving DSA skills</li>
-        <li>🚀 <strong>Full Stack Developer</strong>, working on MERN Stack right now</li>
-        <li>💡 <strong>Learning Machine Learning & Artificial Intelligence</strong></li>
+        <li>🎓 <strong>Pursuing BSc in Software Engineering</strong> - Mastering core CS concepts</li>
+        <li>🧠 <strong>Practicing DSA daily</strong> - Competitive programming on LeetCode/Codeforces</li>
+        <li>🌱 <strong>Learning Full Stack Development</strong> - Building projects with MERN stack</li>
+        <li>🤖 <strong>Exploring AI/ML fundamentals</strong> - Studying Python for data science</li>
+        <li>🔧 <strong>Experimenting with DevOps tools</strong> - Docker, CI/CD pipelines</li>
 
   #### 🌐 Connect with Me
 
@@ -30,7 +31,7 @@
     <a href="https://linkedin.com/in/your-linkedin">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="[https://github.com/AfrinJahanEra](https://www.facebook.com/share/1DUwv5YYq1/)">
+    <a href="https://www.facebook.com/share/1DUwv5YYq1/">
       <img src="https://img.shields.io/badge/FaceBook-%2312100E.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
   </p>
@@ -43,23 +44,49 @@
 </table>
 
 ---
+### 🛠️ Tech Stack & Stats
 
-### 🥷 Tech Stack
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" >
+    
+#### 💻 Technologies Grid
 
-  <br><br>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<table>
+  <!-- Row 1 -->
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></td>
+    <td align="center"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
+    <td align="center"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
+    <td align="center"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
+    <td align="center"><img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"></td>
+  </tr>
+  <!-- Row 3 -->
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
+    <td align="center"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></td>
+  </tr>
+</table>
+    </td>
+    <td width="50%" valign="top">
+
+#### 📊 GitHub Stats
+
+<p align="center">
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AfrinJahanEra&theme=radical" width="45%"> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" width="100%">
 </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -105,12 +132,6 @@
 
 ---
 
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafataft&theme=neon-darkout&hide_border=true&background=0D1117&stroke=9D00FF&fire=FF00F5&sideLabels=00F0FF&currStreakNum=E100FF&ring=E100FF&currStreakLabel=FF00F5&sideNums=00F0FF&border_radius=10&dates=8A2BE2" />
-</p>
 
 ### 📊 GitHub Stats
 
