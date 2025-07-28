@@ -48,7 +48,6 @@
   <tr>
     <td width="50%" valign="top" >
     
-#### 💻 Technologies & Tools
 
 <table>
   <!-- Row 1 -->
@@ -76,7 +75,6 @@
     </td>
     <td width="50%" valign="top">
 
-#### 📊 TimeWise Stats
 
 <p align="center">
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AfrinJahanEra&theme=radical" width="45%"> -->
@@ -144,11 +142,5 @@
   </tr>
 </table>
 
----
 
-
-
-### 🎩 Fun Fact
-
-> "It always seems impossible until it's done." — Nelson Mandela
 
