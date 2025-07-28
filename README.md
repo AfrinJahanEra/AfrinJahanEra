@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E100FF&center=true&vCenter=true&width=700&lines=Hey,+there!+I'm+Afrin+Jahan+Era;Software+Engineering+Student;Competitive+Programmer;Full+Stack+Developer;Building+The+Future+With+Code" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E100FF&center=true&vCenter=true&width=700&lines=Hey,+there!+I'm+Afrin+Jahan+Era;Software+Engineering+Student;Full+Stack+Developer;Building+The+Future+With+Code" alt="Typing SVG">
 </p>
 
 ---
@@ -18,7 +18,7 @@
         <li>🎓 <strong>Pursuing BSc in Software Engineering</strong> - Mastering core CS concepts</li>
         <li>🧠 <strong>Practicing DSA daily</strong> - Competitive programming on LeetCode/Codeforces</li>
         <li>🌱 <strong>Learning Full Stack Development</strong> - Building projects with MERN stack</li>
-        <li>🤖 <strong>Exploring AI/ML fundamentals</strong> - Studying Python for data science</li>
+<!--         <li>🤖 <strong>Exploring AI/ML fundamentals</strong> - Studying Python for data science</li> -->
 
   #### 🌐 Connect with Me
 
@@ -36,7 +36,7 @@
       </ul>
     </td>
     <td width="30%" style="vertical-align: middle; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=neon-dark&hide_border=true&bg_color=000000&title_color=E100FF&text_color=00F0FF" width="100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical&hide_border=true&bg_color=000000&title_color=E100FF&text_color=00F0FF" width="100%">
     </td>
   </tr>
 </table>
