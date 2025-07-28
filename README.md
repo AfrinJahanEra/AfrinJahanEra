@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=700&lines=Hey,+there!+I'm+Afrin+Jahan+Era;Software+Engineering+Student;Competitive+Programmer;Full+Stack+Developer;AI%2FML+Enthusiast;Building+The+Future+With+Code" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=700&lines=Hey,+there!+I'm+Afrin+Jahan+Era;Software+Engineering+Student;Competitive+Programmer;Full+Stack+Developer;Building+The+Future+With+Code" alt="Typing SVG">
 </p>
 
 ---
@@ -48,7 +48,7 @@
   <tr>
     <td width="50%" valign="top" >
     
-#### 💻 Technologies Grid
+#### 💻 Technologies & Tools
 
 <table>
   <!-- Row 1 -->
@@ -76,7 +76,7 @@
     </td>
     <td width="50%" valign="top">
 
-#### 📊 GitHub Stats
+#### 📊 TimeWise Stats
 
 <p align="center">
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AfrinJahanEra&theme=radical" width="45%"> -->
