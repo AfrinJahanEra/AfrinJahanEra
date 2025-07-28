@@ -1,9 +1,10 @@
-<div align="center" style="position:relative;">
-  <img width="100%" src="Screenshot 2025-07-29 001906.png" alt="Banner">
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9D00FF,100:4B0082&height=100&section=header&animation=fadeIn&stroke=000000&strokeWidth=2" alt="Header"/>
 </div>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E100FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Competitive+Programmer;Full+Stack+Developer;AI%2FML+Enthusiast;Building+The+Future+With+Code" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9D00FF&center=true&vCenter=true&width=700&lines=Hey,+there!+I'm+Afrin+Jahan+Era;Software+Engineering+Student;Competitive+Programmer;Full+Stack+Developer;AI%2FML+Enthusiast;Building+The+Future+With+Code" alt="Typing SVG">
 </p>
 
 ---
