@@ -84,14 +84,9 @@
 </table>
     </td>
     <td width="50%" valign="top">
-
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AfrinJahanEra&theme=radical&ring=E100FF&fire=9400D3&currStreakNum=E100FF&sideNums=E100FF&dates=00F0FF&background=0D1117&border=0D1117" width="100%">
-
-
-
-</p>
+      <p align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=AfrinJahanEra&theme=radical&ring=E100FF&fire=9400D3&currStreakNum=E100FF&sideNums=E100FF&dates=00F0FF&background=0D1117&border=0D1117" width="100%">
+      </p>
     </td>
   </tr>
 </table>
