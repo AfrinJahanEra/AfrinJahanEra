@@ -23,9 +23,13 @@
   #### 🌐 Connect with Me
 
   <p align="center">
-    <a href="mailto:afrinjahanera03@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
+    <a href="mailto:afrinjahanera03@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+  <img 
+    src="https://img.shields.io/badge/Email-%239400D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6A0DAD&color=8A2BE2" 
+    alt="Gmail" 
+    style="filter: drop-shadow(0 0 6px #9400D3); border-radius: 8px;"
+  >
+</a>
 <!--     <a href="https://linkedin.com/in/your-linkedin">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a> -->
@@ -35,9 +39,15 @@
   </p>
       </ul>
     </td>
-    <td width="30%" style="vertical-align: middle; text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical&hide_border=true&bg_color=000000&title_color=E100FF&text_color=00F0FF" width="100%">
-    </td>
+<td width="30%" style="vertical-align: middle; text-align: center; background-color: #000000; padding: 10px; border-radius: 10px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical&hide_border=true&bg_color=000000&title_color=E100FF&text_color=00F0FF" 
+    alt="Top Languages Pie Chart" 
+    width="100%" 
+    style="border-radius: 10px;"
+  >
+</td>
+
   </tr>
 </table>
 
@@ -77,8 +87,10 @@
 
 
 <p align="center">
-<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AfrinJahanEra&theme=radical" width="45%"> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AfrinJahanEra&theme=radical&ring=E100FF&fire=9400D3&currStreakNum=E100FF&sideNums=E100FF&dates=00F0FF&background=0D1117&border=0D1117" width="100%">
+
+
+
 </p>
     </td>
   </tr>
@@ -137,7 +149,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=E100FF&text_color=00F0FF&icon_color=FF00F5&border_radius=10" width="90%">
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&cache-bust=1" alt="Contribution Graph">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&title_color=E100FF&text_color=00F0FF&cache-bust=1" alt="Contribution Graph">
     </td>
   </tr>
 </table>
