@@ -51,46 +51,46 @@
   </tr>
 </table>
 
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+</p>
+
 ---
-### 🛠️ Tech Stack & Stats
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top" >
-    
+### 📊 GitHub Stats
 
-<table>
-  <!-- Row 1 -->
-  <tr>
-    <td align="left"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></td>
-    <td align="left"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></td>
-    <td align="left"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"></td>
-    <td align="left"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <td align="left"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
-    <td align="left"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
-    <td align="left"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
-    <td align="left"><img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"></td>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td align="left"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
-    <td align="left"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></td>
-    <td align="left"><img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"></td>
-    <td align="left"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></td>
-  </tr>
-</table>
-    </td>
-    <td width="50%" valign="top">
-      <p align="center">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" width="100%">
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=E100FF&text_color=00F0FF&icon_color=FF00F5&border_radius=10" width="100%">
+      </td>
+      <td width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&title_color=E100FF&text_color=00F0FF&cache-bust=1" width="100%">
+      </td>
+      <td width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:4B0082&height=100&section=footer&animation=fadeIn&stroke=000000&strokeWidth=2" alt="Footer"/>
+</div>
 ---
 
 <!--### 💊 Competitive Programming Achievements
@@ -135,19 +135,6 @@
 
 ---
 
-
-### 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=E100FF&text_color=00F0FF&icon_color=FF00F5&border_radius=10" width="90%">
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&title_color=E100FF&text_color=00F0FF&cache-bust=1" alt="Contribution Graph">
-    </td>
-  </tr>
-</table>
 
 
 
