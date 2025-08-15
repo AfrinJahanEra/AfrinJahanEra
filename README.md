@@ -2,7 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:4B0082&height=100&section=header&animation=fadeIn&stroke=000000&strokeWidth=2" alt="Header"/>
 </div>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E100FF&center=true&vCenter=true&width=700&lines=Hey,+there!+I'm+Afrin+Jahan+Era;Software+Engineering+Student;Building+The+Future+With+Code" alt="Typing SVG">
 </p>
@@ -11,43 +10,34 @@
 
 ### 📚 Currently Learning & Exploring
 
-<table align="center">
+<table align="center" widhth="100%">
   <tr>
     <td width="70%" style="vertical-align: middle;">
       <ul>
         <li>🎓 <strong>Pursuing BSc in Software Engineering</strong> - Mastering core CS concepts</li>
         <li>🧠 <strong>Practicing DSA daily</strong> - Competitive programming on LeetCode/Codeforces</li>
         <li>🌱 <strong>Learning Full Stack Development</strong> - Building projects with MERN stack</li>
-<!--         <li>🤖 <strong>Exploring AI/ML fundamentals</strong> - Studying Python for data science</li> -->
 
   #### 🌐 Connect with Me
 
   <p align="center">
     <a href="mailto:afrinjahanera03@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-  <img 
-    src="https://img.shields.io/badge/Email-%239400D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6A0DAD&color=8A2BE2" 
-    alt="Gmail" 
-    style="filter: drop-shadow(0 0 6px #9400D3); border-radius: 8px;"
-  >
-</a>
-<!--     <a href="https://linkedin.com/in/your-linkedin">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a> -->
+      <img src="https://img.shields.io/badge/Email-%239400D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6A0DAD&color=8A2BE2" alt="Gmail" style="filter: drop-shadow(0 0 6px #9400D3); border-radius: 8px;">
+    </a>
     <a href="https://www.facebook.com/share/1DUwv5YYq1/">
       <img src="https://img.shields.io/badge/FaceBook-%2312100E.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
   </p>
       </ul>
     </td>
-<td width="30%" style="vertical-align: middle; text-align: center; background-color: #000000; padding: 10px; border-radius: 10px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical&hide_border=true&bg_color=000000&title_color=E100FF&text_color=00F0FF" 
-    alt="Top Languages Pie Chart" 
-    width="100%" 
-    style="border-radius: 10px;"
-  >
-</td>
-
+    <td width="30%" style="vertical-align: middle; text-align: center;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical&hide_border=true&bg_color=00000000&title_color=E100FF&text_color=00F0FF&size_weight=0.5&count_weight=0.3" 
+        alt="Top Languages Pie Chart" 
+        width="200"
+        style="border-radius: 10px;"
+      >
+    </td>
   </tr>
 </table>
 
@@ -91,7 +81,47 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:4B0082&height=100&section=footer&animation=fadeIn&stroke=000000&strokeWidth=2" alt="Footer"/>
 </div>
----
+<!--### 💊 Competitive Programming Achievements
+
+<p align="center">
+  <a href="https://leetcode.com/Han_Ae-Ra">
+    <img src="https://img.shields.io/badge/LeetCode-%2300A97F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://codeforces.com/profile/Han_Ae-Ra">
+    <img src="https://img.shields.io/badge/Codeforces-%230F89E5.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  </a>
+  <a href="https://www.codechef.com/users/Han_Ae-Ra">
+    <img src="https://img.shields.io/badge/CodeChef-%23009639.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" style="padding: 1px; vertical-align: top;">
+      <h3>🏆 Achievements</h3>
+      <ul>
+        <li>🏅 Solved 1000+ problems across platforms.</li>
+        <li>🔥 Specialist in Codeforces & <strong>4-star in CodeChef</strong>.</li>
+        <li>🎯 Regular participant in ICPC, Google Kickstart & LeetCode contests.</li>
+      </ul>
+    </td>
+    <td width="50%" style="padding: 1px; vertical-align: top;">
+      <h3>📊 Stats</h3>
+      <table>
+        <tr>
+          <td>
+            <img src="https://leetcard.jacoblin.cool/Han_Ae-Ra?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="250">
+          </td>
+          <td>
+            <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Han_Ae-Ra&theme=radical" alt="Codeforces Stats" width="200">
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>-->
+
+
 
 <!--### 💊 Competitive Programming Achievements
 
