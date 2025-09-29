@@ -94,6 +94,6 @@
   </details>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:4B0082&height=100&section=footer&animation=fadeIn&stroke=000000&strokeWidth=2" alt="Footer"/>
-</div> 
+</div>  -->
