@@ -60,111 +60,40 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=E100FF&text_color=00F0FF&icon_color=FF00F5&border_radius=10" width="100%">
-      </td>
-      <td width="33%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&title_color=E100FF&text_color=00F0FF&cache-bust=1" width="100%">
-      </td>
-      <td width="33%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" width="100%">
-      </td>
-    </tr>
-  </table>
+  <details>
+    <summary style="
+      background: linear-gradient(45deg, #E100FF, #4B0082);
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 25px;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      margin: 15px 0;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 15px rgba(225, 0, 255, 0.3);
+      display: inline-block;
+    ">📊 Show GitHub Stats</summary>
+    <div style="margin-top: 20px;">
+      <table width="100%">
+        <tr>
+          <td width="33.33%" style="padding: 5px;">
+            <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=E100FF&text_color=00F0FF&icon_color=FF00F5&border_radius=10" width="100%" height="195">
+          </td>
+          <td width="33.33%" style="padding: 5px;">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&title_color=E100FF&text_color=00F0FF&cache-bust=1" width="100%" height="195">
+          </td>
+          <td width="33.33%" style="padding: 5px;">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" width="100%" height="195">
+          </td>
+        </tr>
+      </table>
+    </div>
+  </details>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:4B0082&height=100&section=footer&animation=fadeIn&stroke=000000&strokeWidth=2" alt="Footer"/>
-</div>
-<!--### 💊 Competitive Programming Achievements
-
-<p align="center">
-  <a href="https://leetcode.com/Han_Ae-Ra">
-    <img src="https://img.shields.io/badge/LeetCode-%2300A97F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://codeforces.com/profile/Han_Ae-Ra">
-    <img src="https://img.shields.io/badge/Codeforces-%230F89E5.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
-  </a>
-  <a href="https://www.codechef.com/users/Han_Ae-Ra">
-    <img src="https://img.shields.io/badge/CodeChef-%23009639.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
-  </a>
-</p>
-
-<table>
-  <tr>
-    <td width="50%" style="padding: 1px; vertical-align: top;">
-      <h3>🏆 Achievements</h3>
-      <ul>
-        <li>🏅 Solved 1000+ problems across platforms.</li>
-        <li>🔥 Specialist in Codeforces & <strong>4-star in CodeChef</strong>.</li>
-        <li>🎯 Regular participant in ICPC, Google Kickstart & LeetCode contests.</li>
-      </ul>
-    </td>
-    <td width="50%" style="padding: 1px; vertical-align: top;">
-      <h3>📊 Stats</h3>
-      <table>
-        <tr>
-          <td>
-            <img src="https://leetcard.jacoblin.cool/Han_Ae-Ra?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="250">
-          </td>
-          <td>
-            <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Han_Ae-Ra&theme=radical" alt="Codeforces Stats" width="200">
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>-->
-
-
-
-<!--### 💊 Competitive Programming Achievements
-
-<p align="center">
-  <a href="https://leetcode.com/Han_Ae-Ra">
-    <img src="https://img.shields.io/badge/LeetCode-%2300A97F.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://codeforces.com/profile/Han_Ae-Ra">
-    <img src="https://img.shields.io/badge/Codeforces-%230F89E5.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
-  </a>
-  <a href="https://www.codechef.com/users/Han_Ae-Ra">
-    <img src="https://img.shields.io/badge/CodeChef-%23009639.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
-  </a>
-</p>
-
-<table>
-  <tr>
-    <td width="50%" style="padding: 1px; vertical-align: top;">
-      <h3>🏆 Achievements</h3>
-      <ul>
-        <li>🏅 Solved 1000+ problems across platforms.</li>
-        <li>🔥 Specialist in Codeforces & <strong>4-star in CodeChef</strong>.</li>
-        <li>🎯 Regular participant in ICPC, Google Kickstart & LeetCode contests.</li>
-      </ul>
-    </td>
-    <td width="50%" style="padding: 1px; vertical-align: top;">
-      <h3>📊 Stats</h3>
-      <table>
-        <tr>
-          <td>
-            <img src="https://leetcard.jacoblin.cool/Han_Ae-Ra?theme=unicorn&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="250">
-          </td>
-          <td>
-            <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Han_Ae-Ra&theme=radical" alt="Codeforces Stats" width="200">
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>-->
-
----
-
-
-
-
+</div> -->
