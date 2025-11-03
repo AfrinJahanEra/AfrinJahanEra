@@ -27,9 +27,9 @@
 
 <!-- Tech Stack & Languages – FULL WIDTH & ALIGNED -->
 <div align="center" style="margin: 50px 0;">
-  <h3 align="center" font-style="bold" font-family: "Fira Code">
+  <h5 align="center" font-style="bold" font-family: "Fira Code">
   $\Huge\textbf{\color{#8A2BE2}Tech Stack and Languages}$
-  </h3>
+  </h5>
 
   <table style="width: 100%; max-width: 100px; border-collapse: separate; border-spacing: 25px; margin: 0 auto;">
     <tr>
@@ -125,9 +125,9 @@
 
 <!-- GitHub Stats – FULL WIDTH & ALIGNED -->
 <div align="center" style="margin: 50px 0;">
-    <h3 align="center" font-style="bold" font-family: "Fira Code">
+    <h5 align="center" font-style="bold" font-family: "Fira Code">
         $\Huge\textbf{\color{#8A2BE2}GitHub Stats}$
-    </h3>
+    </h5>
 
   <table style="border-collapse: separate; border-spacing: 20px; width: 100%; max-width: 1400px; margin: 0 auto;">
     <tr>
