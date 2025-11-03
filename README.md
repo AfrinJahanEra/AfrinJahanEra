@@ -20,9 +20,10 @@
   ">
     I'm currently studying <strong>Software Engineering at IUT</strong>, building expertise in <strong>MERN stack development</strong> and computer science fundamentals. I'm actively sharpening my problem-solving skills through competitive programming on <strong>LeetCode</strong> and <strong>Codeforces</strong> while exploring <strong>machine learning</strong>. I'm continuously working to create scalable software solutions and expand my technical knowledge.
   </p>
-  
-</div>
 
+
+
+</div>
 
 <!-- Tech Stack & Languages – FULL WIDTH & ALIGNED -->
 <div align="center" style="margin: 50px 0;">
@@ -137,13 +138,13 @@
              style="box-shadow: 0 6px 22px rgba(138,43,226,.35); border-radius: 14px;">
       </td>
       <td style="text-align: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&title_color=8A2BE2&text_color=4169E1"
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&title_color=8A2BE2&text_color=8A2BE2"
              alt="Profile Details" 
              width="100%" 
              style="max-width: 420px; border-radius: 14px; box-shadow: 0 6px 22px rgba(138,43,226,.35);">
       </td>
       <td style="text-align: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6&title_color=8A2BE2&text_color=4169E1"
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6&title_color=8A2BE2&text_color=8A2BE2"
              alt="Productive Time" 
              width="100%" 
              style="max-width: 420px; border-radius: 14px; box-shadow: 0 6px 22px rgba(138,43,226,.35);">
@@ -154,13 +155,7 @@
 
 <!-- Connect Section – FULL WIDTH & ALIGNED -->
 <div align="center" style="margin: 50px 0; padding: 20px;">
-  <h2 style="
-    font-size: 26px; 
-    color: #8A2BE2; 
-    font-weight: bold; 
-    margin-bottom: 20px; 
-    text-shadow: 0 0 10px rgba(138,43,226,.4);
-  ">Let's Connect</h2>
+
 
   <div style="
     background: linear-gradient(135deg,#1A1A1A,#16213e); 
