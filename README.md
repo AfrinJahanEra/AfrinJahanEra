@@ -1,4 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=8A2BE2&height=130&section=header&fontSize=52&fontColor=ffffff&animation=typing&fontAlign=20&fontAlignY=55&textBg=8A2BE2&stroke=8A2BE2&strokeWidth=2" alt="Vibrant Purple Slice Banner" style="border-radius: 14px; box-shadow: 0 0 26px rgba(138,43,226,.7);"/>
+
 <p align="center" style="margin: 20px 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Afrin+Jahan+Era;Software+Engineering+Student" alt="Typing SVG">
 </p>
@@ -19,17 +20,15 @@
   ">
     I'm currently studying <strong>Software Engineering at IUT</strong>, building expertise in <strong>MERN stack development</strong> and computer science fundamentals. I'm actively sharpening my problem-solving skills through competitive programming on <strong>LeetCode</strong> and <strong>Codeforces</strong> while exploring <strong>machine learning</strong>. I'm continuously working to create scalable software solutions and expand my technical knowledge.
   </p>
+  
 </div>
+
 
 <!-- Tech Stack & Languages – FULL WIDTH & ALIGNED -->
 <div align="center" style="margin: 50px 0;">
-  <h2 style="
-    font-size: 30px; 
-    color: #8A2BE2; 
-    font-weight: bold; 
-    margin-bottom: 30px; 
-    text-shadow: 0 0 12px rgba(138, 43, 226, 0.5);
-  ">Tech Stack & Languages</h2>
+  <h3 align="center" font-style="bold" font-family: "Fira Code">
+  $\Huge\textbf{\color{#8A2BE2}Tech Stack and Languages}$
+  </h3>
 
   <table style="width: 100%; max-width: 100px; border-collapse: separate; border-spacing: 25px; margin: 0 auto;">
     <tr>
@@ -125,13 +124,9 @@
 
 <!-- GitHub Stats – FULL WIDTH & ALIGNED -->
 <div align="center" style="margin: 50px 0;">
-  <h2 style="
-    font-size: 30px; 
-    color: #8A2BE2; 
-    font-weight: bold; 
-    margin-bottom: 30px; 
-    text-shadow: 0 0 12px rgba(138, 43, 226, 0.5);
-  ">GitHub Stats</h2>
+    <h3 align="center" font-style="bold" font-family: "Fira Code">
+        $\Huge\textbf{\color{#8A2BE2}GitHub Stats}$
+    </h3>
 
   <table style="border-collapse: separate; border-spacing: 20px; width: 100%; max-width: 1400px; margin: 0 auto;">
     <tr>
