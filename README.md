@@ -1,94 +1,195 @@
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4169E1&height=120&section=header&animation=fadeIn&stroke=000000&strokeWidth=2" alt="Header" style="border-radius: 10px;"/>
-</div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=8A2BE2&height=130&section=header&fontSize=52&fontColor=ffffff&animation=typing&fontAlign=20&fontAlignY=55&textBg=8A2BE2&stroke=8A2BE2&strokeWidth=2" alt="Vibrant Purple Slice Banner" style="border-radius: 14px; box-shadow: 0 0 26px rgba(138,43,226,.7);"/>
 <p align="center" style="margin: 20px 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Afrin+Jahan+Era;Software+Engineering+Student" alt="Typing SVG">
 </p>
 
 <!-- About Me Section -->
 <div align="center" style="margin: 40px 0; padding: 0 20px;">
-  <p style="max-width: 900px; text-align: justify; font-size: 16px; color: #FFD700; line-height: 1.6; background: #1A1A1A; padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
-    I'm currently studying Software Engineering at IUT, building expertise in MERN stack development and computer science fundamentals. I'm actively sharpening my problem-solving skills through competitive programming on LeetCode and Codeforces while exploring machine learning. I'm continuously working to create scalable software solutions and expand my technical knowledge.
+  <p style="
+    max-width: 900px; 
+    text-align: justify; 
+    font-size: 16px; 
+    color: #FFD700; 
+    line-height: 1.7; 
+    background: linear-gradient(135deg, #1A1A1A, #16213e); 
+    padding: 25px; 
+    border-radius: 12px; 
+    box-shadow: 0 6px 20px rgba(138, 43, 226, 0.25); 
+    border: 1px solid #8A2BE2;
+  ">
+    I'm currently studying <strong>Software Engineering at IUT</strong>, building expertise in <strong>MERN stack development</strong> and computer science fundamentals. I'm actively sharpening my problem-solving skills through competitive programming on <strong>LeetCode</strong> and <strong>Codeforces</strong> while exploring <strong>machine learning</strong>. I'm continuously working to create scalable software solutions and expand my technical knowledge.
   </p>
 </div>
 
+<!-- Tech Stack & Languages – FULL WIDTH & ALIGNED -->
+<div align="center" style="margin: 50px 0;">
+  <h2 style="
+    font-size: 30px; 
+    color: #8A2BE2; 
+    font-weight: bold; 
+    margin-bottom: 30px; 
+    text-shadow: 0 0 12px rgba(138, 43, 226, 0.5);
+  ">Tech Stack & Languages</h2>
 
-<!-- Table for Tech Stack and Most Used Languages -->
-<div align="center" style="margin: 40px 0;">
-   <h2 style="font-size: 26px; color: #8A2BE2; font-weight: bold; margin-bottom: 20px;">Tech Stack & Languages</h2>
-  <table style="width: 100%; max-width: 1000px; border-collapse: separate; border-spacing: 20px;">
+  <table style="width: 100%; max-width: 100px; border-collapse: separate; border-spacing: 25px; margin: 0 auto;">
     <tr>
-      <!-- Tech Stack (Left Column) -->
-      <td style="width: %; padding: 25px; vertical-align: top; text-align: center; background: #1A1A1A; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 20px;">
-          <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-          <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-          <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-          <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-          <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-          <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-          <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-          <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
-          <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-          <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-          <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-          <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-        </div>
-        <div style="margin: 20px 0;">
-          <a href="mailto:afrinjahanera03@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-            <img src="https://img.shields.io/badge/Email-%238A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4169E1&color=8A2BE2" alt="Gmail" style="filter: drop-shadow(0 0 6px #8A2BE2); border-radius: 8px; margin: 5px;">
-          </a>
-          <a href="https://www.facebook.com/share/1DUwv5YYq1/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-            <img src="https://img.shields.io/badge/FaceBook-%2312100E.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin: 5px;">
-          </a>
-        </div>
+      <!-- Left: Nested Table -->
+      <td style="
+        width: 70%; 
+        padding: 35px; 
+        background: linear-gradient(135deg, #1A1A1A, #16213e); 
+        border-radius: 14px; 
+        box-shadow: 0 8px 25px rgba(0,0,0,.45);
+        border: 1.5px solid #8A2BE2;
+      ">
+        <table style="width: 100%; border-collapse: separate; border-spacing: 14px;">
+          <!-- Frontend -->
+          <tr>
+            <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; width: 28%; vertical-align: middle; padding: 8px 0;">
+              Frontend
+            </td>
+            <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+              <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+              <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+              <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+              <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+            </td>
+          </tr>
+          <!-- Backend -->
+          <tr>
+            <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
+              Backend
+            </td>
+            <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+              <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+              <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+            </td>
+          </tr>
+          <!-- Databases -->
+          <tr>
+            <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
+              Databases
+            </td>
+            <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+              <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+              <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+              <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+            </td>
+          </tr>
+          <!-- Languages -->
+          <tr>
+            <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
+              Languages
+            </td>
+            <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+              <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+              <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+              <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+              <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+            </td>
+          </tr>
+          <!-- Tools & Cloud -->
+          <tr>
+            <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
+              Tools & Cloud
+            </td>
+            <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+              <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+              <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+              <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+              <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+            </td>
+          </tr>
+        </table>
       </td>
-      <!-- Most Used Languages (Right Column) -->
-      <td style="width: 50%; padding: 25px; vertical-align: top; text-align: center; background: #1A1A1A; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);">
+      <!-- Right: Most Used Languages Pie Chart -->
+      <td style="
+        width: 30%; 
+        padding: 35px; 
+        background: linear-gradient(135deg, #1A1A1A, #16213e); 
+        border-radius: 14px; 
+        box-shadow: 0 8px 25px rgba(0,0,0,.45);
+        border: 1.5px solid #8A2BE2;
+        text-align: center;
+        vertical-align: middle;
+      ">
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=4169E1&size_weight=0.5&count_weight=0.3" 
-          alt="Top Languages Pie Chart" 
-          width="100%"
-          style="max-width: 300px; border-radius: 10px;"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=4169E1&size_weight=0.5&count_weight=0.3"
+          alt="Most Used Languages"
+          style="max-width: 100%; height: auto; border-radius: 14px; box-shadow: 0 0 20px rgba(138,43,226,.4);"
         >
       </td>
     </tr>
   </table>
 </div>
 
-<!-- GitHub Stats Section -->
-<div align="center" style="margin: 40px 0;">
-  <details>
-    <summary style="
-      background: linear-gradient(45deg, #8A2BE2, #4169E1);
-      color: white;
-      border: none;
-      padding: 14px 28px;
-      border-radius: 25px;
-      font-size: 18px;
-      font-weight: bold;
-      cursor: pointer;
-      margin: 15px 0;
-      transition: all 0.3s ease;
-      box-shadow: 0 4px 15px rgba(138, 43, 226, 0.3);
-      display: inline-block;
-    "> GitHub Stats</summary>
-    <div style="margin-top: 20px;">
-      <table width="100%" style="max-width: 1000px; border-collapse: separate; border-spacing: 10px;">
-        <tr>
-          <td width="33.33%" style="padding: 10px;">
-            <img src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=8A2BE2&text_color=4169E1&icon_color=8A2BE2&border_radius=10" width="100%" height="195">
-          </td>
-          <td width="33.33%" style="padding: 10px;">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&title_color=8A2BE2&text_color=4169E1&cache-bust=1" width="100%" height="195">
-          </td>
-          <td width="33.33%" style="padding: 10px;">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6" width="100%" height="195">
-          </td>
-        </tr>
-      </table>
-    </div>
-  </details>
+<!-- GitHub Stats – FULL WIDTH & ALIGNED -->
+<div align="center" style="margin: 50px 0;">
+  <h2 style="
+    font-size: 30px; 
+    color: #8A2BE2; 
+    font-weight: bold; 
+    margin-bottom: 30px; 
+    text-shadow: 0 0 12px rgba(138, 43, 226, 0.5);
+  ">GitHub Stats</h2>
+
+  <table style="border-collapse: separate; border-spacing: 20px; width: 100%; max-width: 1400px; margin: 0 auto;">
+    <tr>
+      <td style="text-align: center;">
+        <img height="195" 
+             src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&hide_border=true&theme=radical&bg_color=1A1A1A&title_color=8A2BE2&text_color=4169E1&icon_color=8A2BE2&border_radius=14"
+             alt="GitHub Stats" 
+             style="box-shadow: 0 6px 22px rgba(138,43,226,.35); border-radius: 14px;">
+      </td>
+      <td style="text-align: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&title_color=8A2BE2&text_color=4169E1"
+             alt="Profile Details" 
+             width="100%" 
+             style="max-width: 420px; border-radius: 14px; box-shadow: 0 6px 22px rgba(138,43,226,.35);">
+      </td>
+      <td style="text-align: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6&title_color=8A2BE2&text_color=4169E1"
+             alt="Productive Time" 
+             width="100%" 
+             style="max-width: 420px; border-radius: 14px; box-shadow: 0 6px 22px rgba(138,43,226,.35);">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Connect Section – FULL WIDTH & ALIGNED -->
+<div align="center" style="margin: 50px 0; padding: 20px;">
+  <h2 style="
+    font-size: 26px; 
+    color: #8A2BE2; 
+    font-weight: bold; 
+    margin-bottom: 20px; 
+    text-shadow: 0 0 10px rgba(138,43,226,.4);
+  ">Let's Connect</h2>
+
+  <div style="
+    background: linear-gradient(135deg,#1A1A1A,#16213e); 
+    padding: 25px; 
+    border-radius: 12px; 
+    box-shadow: 0 6px 20px rgba(0,0,0,.4); 
+    border: 1.5px solid #8A2BE2; 
+    display: inline-block;
+    max-width: 1400px;
+    width: 100%;
+  ">
+    <a href="mailto:afrinjahanera03@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Email-%238A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4169E1"
+           alt="Gmail" style="margin:8px;border-radius:10px;box-shadow:0 0 14px #8A2BE2;transition:transform .2s;"
+           onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+    <a href="https://www.facebook.com/share/1DUwv5YYq1/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+           alt="Facebook" style="margin:8px;border-radius:10px;box-shadow:0 0 14px #1877F2;transition:transform .2s;"
+           onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+  </div>
+
+  <div style="margin-top:25px;">
+    <img src="https://komarev.com/ghpvc/?username=AfrinJahanEra&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views">
+  </div>
 </div>
