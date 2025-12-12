@@ -42,65 +42,71 @@
         box-shadow: 0 8px 25px rgba(0,0,0,.45);
         border: 1.5px solid #8A2BE2;
       ">
-        <table style="width: 100%; border-collapse: separate; border-spacing: 14px;">
-          <!-- Frontend -->
-          <tr>
-            <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; width: 28%; vertical-align: middle; padding: 8px 0;">
-              Frontend
-            </td>
-            <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
-              <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-              <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-              <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-              <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
-            </td>
-          </tr>
-          <!-- Backend -->
-          <tr>
-            <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
-              Backend
-            </td>
-            <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
-              <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-              <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-            </td>
-          </tr>
-          <!-- Databases -->
-          <tr>
-            <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
-              Databases
-            </td>
-            <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
-              <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-              <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-              <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-            </td>
-          </tr>
-          <!-- Languages -->
-          <tr>
-            <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
-              Languages
-            </td>
-            <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
-              <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-              <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-              <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-              <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-            </td>
-          </tr>
-          <!-- Tools & Cloud -->
-          <tr>
-            <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
-              Tools & Cloud
-            </td>
-            <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
-              <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-              <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-              <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-              <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-            </td>
-          </tr>
-        </table>
+       <table style="width: 100%; border-collapse: separate; border-spacing: 14px;">
+
+  <!-- Frontend -->
+  <tr>
+    <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; width: 28%; vertical-align: middle; padding: 8px 0;">
+      Frontend
+    </td>
+    <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React">
+    </td>
+  </tr>
+
+  <!-- Backend -->
+  <tr>
+    <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
+      Backend
+    </td>
+    <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+    </td>
+  </tr>
+
+  <!-- Databases -->
+  <tr>
+    <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
+      Databases
+    </td>
+    <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle">
+    </td>
+  </tr>
+
+  <!-- Languages -->
+  <tr>
+    <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
+      Languages
+    </td>
+    <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+      <img src="https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+      <img src="https://img.shields.io/badge/Java-A10000?style=flat-square&logo=java&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Python-1E90FF?style=flat-square&logo=python&logoColor=white" alt="Python">
+    </td>
+  </tr>
+
+  <!-- Tools & Cloud -->
+  <tr>
+    <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
+      Tools & Cloud
+    </td>
+    <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+    </td>
+  </tr>
+
+</table>
       </td>
       <!-- Right: Most Used Languages Pie Chart -->
       <td style="
