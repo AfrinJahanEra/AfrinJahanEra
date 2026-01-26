@@ -18,7 +18,7 @@
     box-shadow: 0 6px 20px rgba(138, 43, 226, 0.25); 
     border: 1px solid #8A2BE2;
   ">
-    I'm currently studying <strong>Software Engineering at IUT</strong>, building expertise in <strong>MERN stack development</strong> and computer science fundamentals. I'm actively sharpening my problem-solving skills through competitive programming on <strong>LeetCode</strong> and <strong>Codeforces</strong> while exploring <strong>machine learning</strong>. I'm continuously working to create scalable software solutions and expand my technical knowledge.
+    I'm currently studying <strong>Software Engineering at IUT</strong>, building expertise in MERN stack development and computer science fundamentals. I'm actively sharpening my problem-solving skills through competitive programming on Codeforces while exploring machine learning.
   </p>
 
 
