@@ -108,7 +108,7 @@
 
 </table>
       </td>
-      <!-- Right: Most Used Languages Pie Chart -->
+      <!-- Right: Language Stats -->
       <td style="
         width: 30%; 
         padding: 35px; 
@@ -120,8 +120,8 @@
         vertical-align: middle;
       ">
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinJahanEra&layout=pie&theme=radical&hide_border=true&bg_color=00000000&title_color=8A2BE2&text_color=4169E1&size_weight=0.5&count_weight=0.3"
-          alt="Most Used Languages"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AfrinJahanEra&theme=radical"
+          alt="Most Commit Language"
           style="max-width: 100%; height: auto; border-radius: 14px; box-shadow: 0 0 20px rgba(138,43,226,.4);"
         >
       </td>
@@ -137,12 +137,12 @@
 
   <table style="border-collapse: separate; border-spacing: 20px; width: 100%; max-width: 1400px; margin: 0 auto;">
     <tr>
-      <td style="text-align: center;">
-        <img height="195" 
-             src="https://github-readme-stats.vercel.app/api?username=AfrinJahanEra&show_icons=true&hide_border=true&theme=radical&bg_color=1A1A1A&title_color=8A2BE2&text_color=4169E1&icon_color=8A2BE2&border_radius=14"
-             alt="GitHub Stats" 
-             style="box-shadow: 0 6px 22px rgba(138,43,226,.35); border-radius: 14px;">
-      </td>
+<td style="text-align: center;">
+  <img height="195"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AfrinJahanEra&theme=tokyonight"
+       alt="GitHub Stats Card"
+       style="box-shadow: 0 6px 22px rgba(138,43,226,.35); border-radius: 14px;">
+</td>
       <td style="text-align: center;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&title_color=8A2BE2&text_color=8A2BE2"
              alt="Profile Details" 
