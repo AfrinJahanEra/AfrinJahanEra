@@ -26,16 +26,12 @@ These are the ones I've actually spent real time with (at least the ones I could
 <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff" alt="socketio" />
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white" alt="pytorch" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff" alt="tensorflow" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=000" alt="huggingface" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff" alt="sklearn" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff" alt="jupyter" />
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white" alt="mongodb" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="mysql" />
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff" alt="oracle" />
 <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" alt="redis" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="docker" />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="git" />
-<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff" alt="vercel" />
 
 <!-- <img src="" alt="" /> -->
 <!-- Reference: https://github.com/inttter/md-badges -->
@@ -43,18 +39,18 @@ These are the ones I've actually spent real time with (at least the ones I could
 
 
 ### 🌱 Things I've gone deep on ~
-- Auditing agreement bias between LLMs — whether one model folds when another pushes back — across [MoReBench](https://arxiv.org/), [SimpleBench](https://simple-bench.com/) and a benchmark I built by hand!
-- Fine-tuning transformers for low-resource NLP with [BanglaBERT](https://github.com/csebuetnlp/banglabert) and [XLM-RoBERTa](https://huggingface.co/FacebookAI/xlm-roberta-base), zero-shot and fine-tuned, over three Bangla benchmarks!
-- Multi-word entity extraction in Bangla — mining 10K reviews, then growing ~30 real entities into a synthetic dataset with four LLMs when the real data ran out!
-- AI/ML research on biomedical data at [Phitron](https://phitron.io/), where "the model works" and "the model works on clinical data" turned out to be two very different sentences!
-- RAG pipelines end to end using [LangChain](https://www.langchain.com/) — chunking, embeddings, retrieval, and the humbling discovery that most of the work is in PDF parsing!
-- Real-time systems with [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) & [Socket.IO](https://socket.io/) — live leaderboards and a collaborative IDE where two people type in one buffer without fighting!
-- 3D in the browser with [Three.js](https://threejs.org/) and inverse kinematics — turning "move the arm there" into joint angles!
+- Auditing agreement bias between LLMs — does one model fold when another pushes back? Across [MoReBench](https://arxiv.org/), [SimpleBench](https://simple-bench.com/).
+- Fine-tuning [BanglaBERT](https://github.com/csebuetnlp/banglabert) and [XLM-RoBERTa](https://huggingface.co/FacebookAI/xlm-roberta-base) for low-resource NLP over three Bangla benchmarks!
+- Multi-word entity extraction in Bangla — mining 10K reviews, then growing the ~30 real hits into a synthetic dataset with four LLMs!
+- AI/ML research on biomedical data at [Phitron](https://phitron.io/) — "it works" and "it works on clinical data" are two very different sentences!
+- RAG pipelines end to end with [LangChain](https://www.langchain.com/) — and the humbling discovery that most of the work is PDF parsing!
+- Real-time systems with [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) & [Socket.IO](https://socket.io/) — live leaderboards and a two-people-one-buffer collaborative IDE!
+- 3D in the browser with [Three.js](https://threejs.org/) and inverse kinematics — turning "move there" into joint angles!
 - Agentic workflows on [Groq](https://groq.com/) — tool calls, structured output, and a lot of prompt archaeology!
-- Pulling research papers out of [arXiv](https://arxiv.org/), [OpenAlex](https://openalex.org/) & [Semantic Scholar](https://www.semanticscholar.org/) and shipping the notes through a [Discord bot](https://discord.js.org/)!
+- Pulling papers from [arXiv](https://arxiv.org/), [OpenAlex](https://openalex.org/) & [Semantic Scholar](https://www.semanticscholar.org/), then shipping the notes via a [Discord bot](https://discord.js.org/)!
 - Andrew Ng's amazing [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)!
-- Databases with opinions — [Oracle](https://www.oracle.com/database/) triggers & procedures, [Redis](https://redis.io/) for caching, [MongoDB](https://www.mongodb.com/) when the schema refused to sit still!
-- 500+ problems on [Codeforces](https://codeforces.com/profile/Han_Ae-Ra), LeetCode, AtCoder & [CodeChef](https://www.codechef.com/users/hanaera), which is where I actually learned data structures!
+- Databases with opinions — [Oracle](https://www.oracle.com/database/) triggers, [Redis](https://redis.io/) caching, [MongoDB](https://www.mongodb.com/) when the schema wouldn't sit still!
+- 500+ problems on [Codeforces](https://codeforces.com/profile/Han_Ae-Ra), LeetCode, AtCoder & [CodeChef](https://www.codechef.com/users/hanaera) — where I actually learned data structures!
 - Hackathons, and the very specific skill of demoing something that started working four minutes ago!
 
 
