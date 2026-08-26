@@ -53,9 +53,7 @@ These are the ones I've actually spent real time with (at least the ones I could
 - Agentic workflows on [Groq](https://groq.com/) — tool calls, structured output, and a lot of prompt archaeology!
 - Pulling research papers out of [arXiv](https://arxiv.org/), [OpenAlex](https://openalex.org/) & [Semantic Scholar](https://www.semanticscholar.org/) and shipping the notes through a [Discord bot](https://discord.js.org/)!
 - Andrew Ng's amazing [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)!
-- Classical ML with [scikit-learn](https://scikit-learn.org/) before the transformers took over — and the underrated art of cleaning a dataset properly!
 - Databases with opinions — [Oracle](https://www.oracle.com/database/) triggers & procedures, [Redis](https://redis.io/) for caching, [MongoDB](https://www.mongodb.com/) when the schema refused to sit still!
-- Object Oriented Programming with Java — design patterns, role-based access and hashed auth!
 - 500+ problems on [Codeforces](https://codeforces.com/profile/Han_Ae-Ra), LeetCode, AtCoder & [CodeChef](https://www.codechef.com/users/hanaera), which is where I actually learned data structures!
 - Hackathons, and the very specific skill of demoing something that started working four minutes ago!
 
