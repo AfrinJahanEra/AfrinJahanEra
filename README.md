@@ -1,191 +1,71 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=8A2BE2&height=130&section=header&fontSize=52&fontColor=ffffff&animation=typing&fontAlign=20&fontAlignY=55&textBg=8A2BE2&stroke=8A2BE2&strokeWidth=2" alt="Vibrant Purple Slice Banner" style="border-radius: 14px; box-shadow: 0 0 26px rgba(138,43,226,.7);"/>
+<h1 align="center">Hello, I'm Afrin Jahan Era <code>(⌐■_■)</code></h1>
 
-<p align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Afrin+Jahan+Era;Software+Engineering+Student" alt="Typing SVG">
+<p align="center">
+  <i>builds things, then measures how badly they behave</i>
 </p>
 
-<!-- About Me Section -->
-<div align="center" style="margin: 40px 0; padding: 0 20px;">
-  <p style="
-    max-width: 900px; 
-    text-align: justify; 
-    font-size: 16px; 
-    color: #FFD700; 
-    line-height: 1.7; 
-    background: linear-gradient(135deg, #1A1A1A, #16213e); 
-    padding: 25px; 
-    border-radius: 12px; 
-    box-shadow: 0 6px 20px rgba(138, 43, 226, 0.25); 
-    border: 1px solid #8A2BE2;
-  ">
-    I'm currently studying <strong>Software Engineering at IUT</strong>, building expertise in MERN stack development and computer science fundamentals. I'm actively sharpening my problem-solving skills through competitive programming on Codeforces while exploring machine learning.
-  </p>
+I'm a **Software Engineering** undergrad at _[IUT](https://www.iutoic-dhaka.edu/)_, splitting my time between shipping full-stack apps and poking at language models until they admit they were wrong. Most of my building happens in the React/Django/Node corner of the world, but my curiosity keeps drifting toward research — **LLM alignment & bias, multi-agent evaluation** and **low-resource NLP**, Bangla especially. Somewhere between the two is where I'm happiest: build the thing, then measure how badly it behaves. The rest of my time goes to competitive programming, where my rating improves roughly as fast as my sleep schedule degrades `¯\_(ツ)_/¯`
 
 
+### 🧑‍💻 Tools I work with ~
 
-</div>
+I've moved across frontend, backend and ML over the years, tried out different roles and figured out that I like the part where the pieces have to talk to each other — APIs, sockets, retrieval pipelines, databases. The plumbing.
 
-<!-- Tech Stack & Languages – FULL WIDTH & ALIGNED -->
-<div align="center" style="margin: 50px 0;">
-  <h5 align="center" font-style="bold" font-family: "Fira Code">
-  $\Huge\textbf{\color{#8A2BE2}Tech Stack and Languages}$
-  </h5>
+These are the ones I've actually spent real time with (at least the ones I could find fancy badges for) ~
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="javascript" />
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=cplusplus&logoColor=white" alt="cpp" />
+<img src="https://img.shields.io/badge/Java-E76F00?logo=openjdk&logoColor=fff" alt="java" />
+<img src="https://img.shields.io/badge/C%23-%23512BD4.svg?logo=csharp&logoColor=white" alt="csharp" />
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" alt="react" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=fff" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" alt="express" />
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="django" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff" alt="tailwind" />
+<img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff" alt="socketio" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white" alt="pytorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff" alt="tensorflow" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=000" alt="huggingface" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff" alt="sklearn" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff" alt="jupyter" />
+<img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white" alt="mongodb" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="mysql" />
+<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff" alt="oracle" />
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" alt="redis" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="docker" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="git" />
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff" alt="vercel" />
 
-  <table style="width: 100%; max-width: 100px; border-collapse: separate; border-spacing: 25px; margin: 0 auto;">
-    <tr>
-      <!-- Left: Nested Table -->
-      <td style="
-        width: 70%; 
-        padding: 35px; 
-        background: linear-gradient(135deg, #1A1A1A, #16213e); 
-        border-radius: 14px; 
-        box-shadow: 0 8px 25px rgba(0,0,0,.45);
-        border: 1.5px solid #8A2BE2;
-      ">
-       <table style="width: 100%; border-collapse: separate; border-spacing: 14px;">
-
-  <!-- Frontend -->
-  <tr>
-    <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; width: 28%; vertical-align: middle; padding: 8px 0;">
-      Frontend
-    </td>
-    <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React">
-    </td>
-  </tr>
-
-  <!-- Backend -->
-  <tr>
-    <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
-      Backend
-    </td>
-    <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
-    </td>
-  </tr>
-
-  <!-- Databases -->
-  <tr>
-    <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
-      Databases
-    </td>
-    <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle">
-    </td>
-  </tr>
-
-  <!-- Languages -->
-  <tr>
-    <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
-      Languages
-    </td>
-    <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
-      <img src="https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/Java-A10000?style=flat-square&logo=java&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Python-1E90FF?style=flat-square&logo=python&logoColor=white" alt="Python">
-    </td>
-  </tr>
-
-  <!-- Tools & Cloud -->
-  <tr>
-    <td style="color: #8A2BE2; font-weight: bold; font-size: 18px; vertical-align: middle; padding: 8px 0;">
-      Tools & Cloud
-    </td>
-    <td style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-    </td>
-  </tr>
-
-</table>
-      </td>
-      <!-- Right: Language Stats -->
-      <td style="
-        width: 30%; 
-        padding: 35px; 
-        background: linear-gradient(135deg, #1A1A1A, #16213e); 
-        border-radius: 14px; 
-        box-shadow: 0 8px 25px rgba(0,0,0,.45);
-        border: 1.5px solid #8A2BE2;
-        text-align: center;
-        vertical-align: middle;
-      ">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AfrinJahanEra&theme=radical"
-          alt="Most Commit Language"
-          style="max-width: 100%; height: auto; border-radius: 14px; box-shadow: 0 0 20px rgba(138,43,226,.4);"
-        >
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- GitHub Stats – FULL WIDTH & ALIGNED -->
-<div align="center" style="margin: 50px 0;">
-    <h5 align="center" font-style="bold" font-family: "Fira Code">
-        $\Huge\textbf{\color{#8A2BE2}GitHub Stats}$
-    </h5>
-
-  <table style="border-collapse: separate; border-spacing: 20px; width: 100%; max-width: 1400px; margin: 0 auto;">
-    <tr>
-<td style="text-align: center;">
-  <img height="195"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AfrinJahanEra&theme=tokyonight"
-       alt="GitHub Stats Card"
-       style="box-shadow: 0 6px 22px rgba(138,43,226,.35); border-radius: 14px;">
-</td>
-      <td style="text-align: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfrinJahanEra&theme=radical&title_color=8A2BE2&text_color=8A2BE2"
-             alt="Profile Details" 
-             width="100%" 
-             style="max-width: 420px; border-radius: 14px; box-shadow: 0 6px 22px rgba(138,43,226,.35);">
-      </td>
-      <td style="text-align: center;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=radical&utcOffset=6&title_color=8A2BE2&text_color=8A2BE2"
-             alt="Productive Time" 
-             width="100%" 
-             style="max-width: 420px; border-radius: 14px; box-shadow: 0 6px 22px rgba(138,43,226,.35);">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Connect Section – FULL WIDTH & ALIGNED -->
-<div align="center" style="margin: 50px 0; padding: 20px;">
+<!-- <img src="" alt="" /> -->
+<!-- Reference: https://github.com/inttter/md-badges -->
+</p>
 
 
-  <div style="
-    background: linear-gradient(135deg,#1A1A1A,#16213e); 
-    padding: 25px; 
-    border-radius: 12px; 
-    box-shadow: 0 6px 20px rgba(0,0,0,.4); 
-    border: 1.5px solid #8A2BE2; 
-    display: inline-block;
-    max-width: 1400px;
-    width: 100%;
-  ">
-    <a href="mailto:afrinjahanera03@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Email-%238A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4169E1"
-           alt="Gmail" style="margin:8px;border-radius:10px;box-shadow:0 0 14px #8A2BE2;transition:transform .2s;"
-           onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-    <a href="https://www.facebook.com/share/1DUwv5YYq1/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-           alt="Facebook" style="margin:8px;border-radius:10px;box-shadow:0 0 14px #1877F2;transition:transform .2s;"
-           onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-  </div>
+### 🌱 Things I've gone deep on ~
+- Auditing agreement bias between LLMs — whether one model folds when another pushes back — across [MoReBench](https://arxiv.org/), [SimpleBench](https://simple-bench.com/) and a benchmark I built by hand!
+- Fine-tuning transformers for low-resource NLP with [BanglaBERT](https://github.com/csebuetnlp/banglabert) and [XLM-RoBERTa](https://huggingface.co/FacebookAI/xlm-roberta-base), zero-shot and fine-tuned, over three Bangla benchmarks!
+- Multi-word entity extraction in Bangla — mining 10K reviews, then growing ~30 real entities into a synthetic dataset with four LLMs when the real data ran out!
+- AI/ML research on biomedical data at [Phitron](https://phitron.io/), where "the model works" and "the model works on clinical data" turned out to be two very different sentences!
+- RAG pipelines end to end using [LangChain](https://www.langchain.com/) — chunking, embeddings, retrieval, and the humbling discovery that most of the work is in PDF parsing!
+- Real-time systems with [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) & [Socket.IO](https://socket.io/) — live leaderboards and a collaborative IDE where two people type in one buffer without fighting!
+- 3D in the browser with [Three.js](https://threejs.org/) and inverse kinematics — turning "move the arm there" into joint angles!
+- Agentic workflows on [Groq](https://groq.com/) — tool calls, structured output, and a lot of prompt archaeology!
+- Pulling research papers out of [arXiv](https://arxiv.org/), [OpenAlex](https://openalex.org/) & [Semantic Scholar](https://www.semanticscholar.org/) and shipping the notes through a [Discord bot](https://discord.js.org/)!
+- Andrew Ng's amazing [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)!
+- Classical ML with [scikit-learn](https://scikit-learn.org/) before the transformers took over — and the underrated art of cleaning a dataset properly!
+- Databases with opinions — [Oracle](https://www.oracle.com/database/) triggers & procedures, [Redis](https://redis.io/) for caching, [MongoDB](https://www.mongodb.com/) when the schema refused to sit still!
+- Object Oriented Programming with Java — design patterns, role-based access and hashed auth!
+- 500+ problems on [Codeforces](https://codeforces.com/profile/Han_Ae-Ra), LeetCode, AtCoder & [CodeChef](https://www.codechef.com/users/hanaera), which is where I actually learned data structures!
+- Hackathons, and the very specific skill of demoing something that started working four minutes ago!
 
-  <div style="margin-top:25px;">
-    <img src="https://komarev.com/ghpvc/?username=AfrinJahanEra&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views">
-  </div>
-</div>
+
+### 🔬 What my commit history says about me ~
+<p align="center">
+<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AfrinJahanEra&theme=transparent" alt="most commit language" />
+<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AfrinJahanEra&theme=transparent" alt="stats" />
+<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfrinJahanEra&theme=transparent&utcOffset=6" alt="productive time" />
+</p>
+
+---
+> ***I'm available via 📫 [email](mailto:afrinjahanera03@gmail.com) or 💼 [LinkedIn](https://www.linkedin.com/in/afrin-jahan-era-054b22417/) (and if you're tired of professionalism there's 💬 [messenger](https://www.facebook.com/share/1DUwv5YYq1/)). Feel free to hit me up if you feel like discussing research or random tech, collaborating, or even grabbing a cup of coffee!***
